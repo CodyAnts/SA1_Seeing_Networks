@@ -1,2 +1,3 @@
-# SA1_Seeing_Networks
-MDDN201: Internet and Social Media Design project
+# Example Template for SPA1
+
+These are some basic elements to help you out with SPA1. Hit the clone or download button to get it as a zip. 
