@@ -42,6 +42,7 @@ nav{
 	background-color: #EF8354;
 	font-family: 'IBM Plex Mono', monospace;
 	font-size: 18px;
+	color: #222;
 }
 
 nav a, nav h3{
